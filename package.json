@@ -1,9 +1,9 @@
 {
-  "name": "demo",
-  "version": "1.0.0",
+  "name": "supmobile",
+  "version": "1.0.2",
   "description": "",
   "bin": {
-    "build-react": "bin/react-cli"
+    "supMobile": "bin/react-cli"
   },
   "author": "fee",
   "license": "ISC",
